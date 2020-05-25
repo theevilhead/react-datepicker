@@ -4,4 +4,9 @@ A simple and reusable Datepicker component for React ([Demo](https://reactdatepi
 
 ![](https://github.com/theevilhead/react-datepicker/raw/master/react-date-picker.png)
 
-## Details coming soon, checkout `/dist` till then
+## Details coming soon
+Until then pull the repo and  
+Run  
+`yarn`
+and build files
+`yarn build` and use styles in the `/dist` directory
