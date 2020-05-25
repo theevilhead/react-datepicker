@@ -7,6 +7,6 @@ A simple and reusable Datepicker component for React ([Demo](https://reactdatepi
 ## Details coming soon
 Until then pull the repo and  
 Run  
-`yarn`
-and build files
-`yarn build` and use styles in the `/dist` directory
+`yarn`  
+and build files  
+`yarn build` and use styles in the `/dist` directory  
